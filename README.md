@@ -1,4 +1,4 @@
-### Olá, sou Laura Assis!!!
+###
 
 <div>
   <a href="https://github.com/LauraLuizaAssis">
