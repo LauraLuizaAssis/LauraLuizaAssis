@@ -1,7 +1,4 @@
-### Olá, sou Laura Assis!!! 👋
-
-- 🌱 Estudando: Python
-- 📫 Email: lauraassis2017@outlook.com
+### Olá, sou Laura Assis!!!
 
 <div>
   <a href="https://github.com/LauraLuizaAssis">
