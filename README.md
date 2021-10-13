@@ -19,3 +19,5 @@
   <a href = "mailto:laurinha449@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-assis-4911a8168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71992866/137155203-fae3eba6-883f-49c3-8f31-36cf878b8a85.gif)
